@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sunil Kumar
 - 👀 I’m interested in App Development and competitive coding
-- 🌱 I’m currently learning App Development and Java
-- 💞️ I’m looking to collaborate on any coding realated work
+- 🌱 I’m currently learning Flutter and DSA
+- 💞️ I’m looking to collaborate with people having same interests 
 
 
 <!---
